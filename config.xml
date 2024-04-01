@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <host>192.168.2.177</host>
+    <port>3306</port>
+    <user>root</user>
+    <passwd>123456</passwd>
+    <name>test</name>
+    <mongo>mongodb://root:Mexico2022@dds-0xibfe2b1d8d08241497-pub.mongodb.rds.aliyuncs.com:3717,dds-0xibfe2b1d8d08242332-pub.mongodb.rds.aliyuncs.com:3717/admin?replicaSet=mgset-60567343</mongo>
+    <advance_url>https://mex-api.advance.ai/mex/openapi/verification/v2/common-phone-detection</advance_url>
+    <advance_key>94584193286752f6</advance_key>
+    <base>500</base>
+    <pdo>50</pdo>
+    <model>risk_control_20230303.model</model>
+    <ios_model>ios_risk_control_20230523.model</ios_model>
+    <old_model>old_risk_control_20230327.model</old_model>
+</config>
